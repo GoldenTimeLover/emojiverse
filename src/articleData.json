@@ -1,0 +1,50 @@
+[
+  {
+    "title": "How To Use an Emoji as a Favicon Easily",
+    "author": "Chris Coyier",
+    "description": "How To Use an Emoji as a Favicon Easily",
+    "url": "https://css-tricks.com/emoji-as-a-favicon/"
+  },
+  {
+    "title": "What is a Hashflag on Twitter?",
+    "author": "Sakshi Garg",
+    "description": "Everything you need to know about mysterious and disappearing Hashflags.",
+    "url": "https://allthings.how/what-is-a-hashflag-on-twitter/"
+  },
+  {
+    "title": "Emoji and the Levitating Businessman",
+    "author": "Computerphile",
+    "description": "Unicode is changing, adding tons more icons and smilies - But what's new and why? Tom Scott takes us through the improvements...",
+    "url": "https://www.youtube.com/watch?v=tITwM5GDIAI"
+  },
+  {
+    "title": "I bought 300 emoji domain names from Kazakhstan and built an email service",
+    "author": "Ben Stokes (tinyprojects)",
+    "description": "I bought 300 emoji domain names from Kazakhstan and built an emoji email address service.",
+    "url": "https://tinyprojects.dev/projects/mailoji"
+  },
+  {
+    "title": "Animating URLs with Javascript and Emojis",
+    "author": "Matthew Rayfield",
+    "description": "You can use emoji (and other graphical unicode characters) in URLs. ",
+    "url": "https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/"
+  },
+  {
+    "title": "Everything You Need To Know About Emoji 🍭",
+    "author": "Rob Reed",
+    "description": "We all recognize emoji. They've become the global pop stars of digital communication. But what are they, technically speaking? ",
+    "url": "https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/"
+  },
+  {
+    "title": "Microsoft open sources its 3D emoji to let creators remix and customize them",
+    "author": "Tom Warren",
+    "description": "Get ready for lots of custom 3D emoji",
+    "url": "https://www.theverge.com/2022/8/10/23299527/microsoft-emoji-open-source-creators?scrolla=5eb6d68b7fedc32c19ef33b4"
+  },
+  {
+    "title": "Games and Graphics in Popup URL bars",
+    "author": "Matthew Rayfield",
+    "description": "Games and Graphics in Popup URL bars also emoji stuff!",
+    "url": "https://matthewrayfield.com/articles/games-and-graphics-in-popup-url-bars/"
+  }
+]
